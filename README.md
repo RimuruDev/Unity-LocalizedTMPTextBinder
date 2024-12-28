@@ -17,6 +17,9 @@
 2. Убедитесь, что у вас установлены следующие зависимости:
    - [TextMeshPro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest).
    - [Unity Localization](https://docs.unity3d.com/Packages/com.unity.localization@latest).
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/351ed689-6feb-4295-8f4e-fe91df383abf" />
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/6822d4a7-a013-4aac-822e-1fa2338db7ba" />
+
 
 ## Использование
 1. Добавьте компонент `LocalizedTMPTextBinder` на объект, содержащий `TMP_Text`, который вы хотите локализовать.
