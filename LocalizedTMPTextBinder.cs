@@ -24,6 +24,7 @@ namespace RimuruDev
     [RequireComponent(typeof(RectTransform))]
     [RequireComponent(typeof(CanvasRenderer))]
     [RequireComponent(typeof(LocalizeStringEvent))]
+    [HelpURL("https://github.com/RimuruDev/Unity-LocalizedTMPTextBinder")]
     [AddComponentMenu("0x_/Localization/" + nameof(LocalizedTMPTextBinder))]
     public sealed class LocalizedTMPTextBinder : MonoBehaviour
     {
