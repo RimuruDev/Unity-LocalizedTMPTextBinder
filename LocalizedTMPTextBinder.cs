@@ -62,9 +62,9 @@ namespace RimuruDev
                 AddPersistentListener(localizeStringEvent);
             }
 #endif
-            ClearText();
-
-            void ClearText() => tmpText.text = string.Empty;
+            // ClearText();
+            //
+            // void ClearText() => tmpText.text = string.Empty;
         }
 
 #if UNITY_EDITOR_MODE
